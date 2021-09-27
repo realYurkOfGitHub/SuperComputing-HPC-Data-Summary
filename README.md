@@ -4,6 +4,7 @@
 
 ![Image text](https://raw.githubusercontent.com/realYurkOfGitHub/HighPerformanceComputingNotes/main/高性能计算/培养阶段性计划/高性能计算培养计划.png?token=AQATVHXMTUA34DGYMA452M3BKGJYS)
 
+![Image text](https://raw.githubusercontent.com/realYurkOfGitHub/HighPerformanceComputingNotes/main/高性能计算/培养阶段性计划/数据分析与深度学习方向.png?token=AQATVHT62CR7YWBVGC367ULBKGL34)
 ## SC/HPC小组培养计划与学习路线
 #### 计算机软硬件基础：
 - 数据结构与算法
