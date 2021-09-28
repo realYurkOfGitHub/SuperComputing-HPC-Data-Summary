@@ -2,9 +2,9 @@
 收录SC小组在学习高性能计算、分布式架构、数据挖掘与人工智能方向的笔记和材料
 
 
-![Image text](https://raw.githubusercontent.com/realYurkOfGitHub/HighPerformanceComputingNotes/main/高性能计算/培养阶段性计划/高性能计算培养计划.png?token=AQATVHQYFTGHBNW6CWYOSSDBKGMD6)
+![Image text](https://github.com/realYurkOfGitHub/HighPerformanceComputingNotes/blob/main/高性能计算/培养阶段性计划/高性能计算培养计划.png)
 
-![Image text](https://raw.githubusercontent.com/realYurkOfGitHub/HighPerformanceComputingNotes/main/高性能计算/培养阶段性计划/数据分析与深度学习方向.png?token=AQATVHX2HK2FGOQSHT2NSSDBKGMGW)
+![Image text](https://github.com/realYurkOfGitHub/HighPerformanceComputingNotes/blob/main/高性能计算/培养阶段性计划/数据分析与深度学习方向.png)
 ## SC/HPC小组培养计划与学习路线
 #### 计算机软硬件基础：
 - 数据结构与算法
