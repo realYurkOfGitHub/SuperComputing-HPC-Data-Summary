@@ -27,6 +27,7 @@
 #### 并行计算：
 - OpenMP、MPI、CUDA 及其他并行语法
 - 并行数据挖掘、遗传算法、迭代算法与前沿介绍
+![Image text](https://github.com/realYurkOfGitHub/HighPerformanceComputingNotes/blob/main/高性能计算/培养阶段性计划/并行计算策略.png)
 
 #### 分布式与高性能计算：
 - 高性能计算导论(分布式架构与软硬件策略)
