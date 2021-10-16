@@ -31,6 +31,7 @@
 
 #### 分布式与高性能计算：
 - 高性能计算导论(分布式架构与软硬件策略)
+- Introduction to High Performance Scientific Computing - Victor Eijkhout(已授权)
 - 区块链概念介绍(以太坊与智能合约)
 - python 高性能优化策略(numba、cython、pypy、矩阵优化、FFT、Blas、泊松方程、二位热传导方程等)
 
